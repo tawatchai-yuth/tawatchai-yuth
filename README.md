@@ -23,9 +23,9 @@
   <a href="mailto:tawatchaiyuth@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=EA4335" />
   </a>
-  <a href="https://github.com/tawatchai-yuth">
+  <!-- <a href="https://github.com/tawatchai-yuth">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
-  </a>
+  </a> -->
   <!-- เพิ่ม LinkedIn, Twitter ได้ถ้ามี -->
 </p>
 
