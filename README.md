@@ -33,7 +33,7 @@
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,vue,react,nuxtjs,nextjs,typescript,javascript,php,laravel,codeigniter,express,nodejs,mysql,postgres,bootstrap,tailwind,css,html,git" />
+  <img src="https://skillicons.dev/icons?i=angular,vue,react,nuxtjs,nextjs,typescript,javascript,php,laravel,express,nodejs,mysql,postgres,bootstrap,tailwind,css,html,git" />
 </p>
 
 ---
