@@ -1,55 +1,120 @@
 <h1 align="center">Hi 👋, I'm Tawatchai</h1>
 
 <p align="center">
-  <em>
-    Hello everyone! I'm Tawatchai, a passionate programmer who loves solving problems through coding.  
-    I thrive on exploration and enjoy diving into new technologies, always seeking ways to make my code an inspiration in this diverse world.
-  </em>
+  <strong>Web Developer</strong> · Frontend · Backend · Database
+</p>
+
+<p align="center">
+  I build web applications from frontend to backend, with a focus on
+  clean code, maintainable architecture, and practical solutions.
 </p>
 
 ---
 
-<!-- <img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"> -->
+## 👨‍💻 About Me
 
-### 🌟 About Me  
-- 🔭 Currently working on **AI Technovation**  
-- 🌱 Learning **Angular**  
-- 📫 Reach me at **tawatchaiyuth@hotmail.com**
+* 💻 Web Developer focused on building **modern web applications**
+* 🎨 Working across **Frontend, Backend, and Database**
+* 🚀 Experienced with **React, Next.js, Angular, Nuxt.js, Node.js, and Express**
+* 🗄️ Working with **SQL, PostgreSQL, MySQL, and Prisma**
+* 🌱 Continuously learning new technologies and improving development practices
+* 🤖 Interested in using **AI as a development teammate** to improve productivity and software quality
 
 ---
 
-### 🤝 Connect with me
+## 🧩 What I Work With
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,nuxtjs,typescript,javascript,tailwind,bootstrap,html,css" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,prisma,postgres,mysql" />
+</p>
+
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,githubactions" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+I enjoy working on projects where I can contribute across different parts of the application.
+
+| Project                      | Technologies                                | Focus                                  |
+| ---------------------------- | ------------------------------------------- | -------------------------------------- |
+| **Web Applications**         | React · Next.js · TypeScript · Tailwind CSS | Frontend & REST API integration        |
+| **Business Applications**    | Angular · TypeScript                        | Enterprise web application development |
+| **Backend APIs**             | Node.js · Express · Prisma · PostgreSQL     | REST API & database development        |
+| **Patient Screening System** | Nuxt.js                                     | Data visualization & user workflows    |
+| **School Management System** | Node.js · Express · Prisma · PostgreSQL     | Backend & database architecture        |
+
+---
+
+## 🛠️ Development Focus
+
+```text
+Frontend        → React · Next.js · Angular · Nuxt.js
+Backend         → Node.js · Express · PHP · Laravel
+Database        → PostgreSQL · MySQL · SQL · Prisma
+Styling         → Tailwind CSS · Bootstrap
+API             → REST API
+DevOps          → Docker · GitHub Actions · CI/CD
+Version Control → Git · GitHub · GitLab
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tawatchai-yuth&show_icons=true&hide_border=true&theme=transparent"
+    alt="Tawatchai's GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawatchai-yuth&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tawatchai-yuth&hide_border=true&theme=transparent"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
 <p>
   <a href="mailto:tawatchaiyuth@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=EA4335" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
   <a href="https://github.com/tawatchai-yuth">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
+    <img
+      src="https://img.shields.io/badge/GitHub-tawatchai--yuth-181717?style=flat&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
-  <!-- เพิ่ม LinkedIn, Twitter ได้ถ้ามี -->
-</p>
-
----
-
-### 🛠️ Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,vue,react,nuxtjs,nextjs,typescript,javascript,php,laravel,express,nodejs,mysql,postgres,bootstrap,tailwind,css,html,git" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawatchai-yuth&show_icons=true&theme=radical" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawatchai-yuth&layout=compact&theme=radical" alt="top langs" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawatchai-yuth&theme=radical" alt="streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tawatchai-yuth&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <sub>Building, learning, and improving — one project at a time.</sub>
 </p>
