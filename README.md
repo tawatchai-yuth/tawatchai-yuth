@@ -11,10 +11,16 @@
 
 <p align="center">
   <a href="mailto:tawatchaiyuth@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
   <a href="https://github.com/tawatchai-yuth">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
@@ -37,19 +43,28 @@
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,nuxtjs,typescript,javascript,tailwind,bootstrap,html,css" alt="Frontend Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,nuxtjs,typescript,javascript,tailwind,bootstrap,html,css"
+    alt="Frontend Technologies"
+  />
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,prisma,postgres,mysql" alt="Backend and Database Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,prisma,postgres,mysql"
+    alt="Backend and Database Technologies"
+  />
 </p>
 
 ### Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,githubactions" alt="Tools and DevOps" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,gitlab,docker,githubactions"
+    alt="Tools and DevOps"
+  />
 </p>
 
 ---
@@ -118,16 +133,18 @@ DevOps & Tools
   />
 </p>
 
+### 🔥 GitHub Streak
+
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=tawatchai-yuth&hide_border=true&theme=transparent"
-    alt="GitHub Streak"
+    alt="Tawatchai's GitHub Streak"
   />
 </p>
 
 ---
 
-## 📈 Profile
+## 📈 Profile Views
 
 <p align="center">
   <img
