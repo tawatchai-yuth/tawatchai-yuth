@@ -118,40 +118,13 @@ DevOps & Tools
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Current Focus
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tawatchai-yuth&show_icons=true&hide_border=true&theme=transparent"
-    alt="Tawatchai's GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawatchai-yuth&layout=compact&hide_border=true&theme=transparent"
-    alt="Top Languages"
-    height="165"
-  />
-</p>
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tawatchai-yuth&hide_border=true&theme=transparent"
-    alt="Tawatchai's GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 Profile Views
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=tawatchai-yuth&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-</p>
+* Building maintainable and scalable web applications
+* Improving **Frontend architecture and UI development**
+* Developing robust **Backend APIs**
+* Learning and applying better **software architecture patterns**
+* Exploring how **AI can improve the software development workflow**
 
 ---
 
